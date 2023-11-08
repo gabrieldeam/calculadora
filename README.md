@@ -20,7 +20,7 @@ Sinta-se à vontade para clonar ou fazer o download deste projeto para explorar,
 
 ## Autor
 
-[Seu Nome] - [Seu Perfil no GitHub]
+Gabriel - @gabrieldeam
 
 ## Licença
 
