@@ -22,7 +22,3 @@ Sinta-se à vontade para clonar ou fazer o download deste projeto para explorar,
 
 Gabriel - @gabrieldeam
 
-## Licença
-
-Este projeto é licenciado sob a Licença [Inserir Licença] - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
-
